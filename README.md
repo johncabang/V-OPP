@@ -1,18 +1,25 @@
-# V-OPP
+## V-OPP
 
-## Product Description
+- wip
+
+### Product Description
 
 A simple one-stop application where companies, charities and educational institutions can quickly post available volunteer positions, and those seeking volunteer work/internships can easily apply to them. New users register on the site and create a profile that allows them to post and/or apply for available opportunities.
 
-## Tech Stack
+### Tech Stack
 
 - React
-- React Bootstrap
 - Node.js
 - Express.js
 - PostgreSQL
 
-## Screenshots
+### Contributors
+
+[**Toktam Mohebbi**](https://github.com/toktamm)
+
+[**Leo Liao**](https://github.com/Leo-Liao1994)
+
+### Screenshots
 
 !["V-OPP Login"](https://github.com/toktamm/volunteer/blob/master/docs/v_opp_login_ss.png?raw=true)
 
